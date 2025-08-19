@@ -1,7 +1,7 @@
 # Data-analysis-dashboard
 I have developed an interactive Power BI dashboard for analyzing Uber trip data, focusing on booking trends, revenue generation, trip efficiency, and demand patterns. The dashboards are designed to help stakeholders make data-driven decisions by providing actionable insights into trip volumes, distances, durations, and booking values.
 
-Dashboard link **https://app.powerbi.com/links/e_2zYXMT4u?ctid=81abbd54-35d8-4e46-af93-d6796716406d&pbi_source=linkShare**
+Dashboard link https://app.powerbi.com/links/e_2zYXMT4u?ctid=81abbd54-35d8-4e46-af93-d6796716406d&pbi_source=linkShare
 # Problem statement
 UBER TRIP ANALYSIS
 DAHBOARD 1: OVERVIEW ANALYSIS
